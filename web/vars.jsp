@@ -1,0 +1,3 @@
+<%
+String siteName = "BITLAB SHOP";
+%>
